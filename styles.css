@@ -1,4 +1,4 @@
-Header
+.holder
   {
     height: auto;
     width: auto;
@@ -9,8 +9,7 @@ Header
     
     align-items:flex-end;
     flex-wrap: wrap; 
-    padding: 0;
-    margin: 0;
+  
 }
 .box{
     /* display: flex; */
